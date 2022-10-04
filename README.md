@@ -6,7 +6,7 @@
 
 可在[此GitHub仓库](https://github.com/Hakuin123/static)查看所有资源文件。
 
->如果有需要，欢迎通过Pull requests申请添加公用存储文件。请将所添加的文件放在public文件夹。
+>如果有需要，欢迎通过Pull requests申请添加公用存储文件。请将所添加的文件放在`s`文件夹。
 
 ## 体验不限速下载
 
